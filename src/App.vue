@@ -12,4 +12,7 @@
   width: 0.5rem;
   height: 0.5rem;
 }
+a {
+  color: black;
+}
 </style>
